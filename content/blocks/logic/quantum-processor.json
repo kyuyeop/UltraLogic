@@ -1,0 +1,17 @@
+{
+  "type": "LogicBlock",
+  "name": "Quantum Processor",
+  "category": "logic",
+  "research": "quantum-processor",
+  "requirements": [
+    "surge-alloy/400",
+    "metaglass/200",
+    "silicon/100",
+    "titanium/100",
+    "graphite/50"
+  ],
+  "health": 1500,
+  "size": 2,
+  "range": 1024,
+  "instructionsPerTick": 1000
+}

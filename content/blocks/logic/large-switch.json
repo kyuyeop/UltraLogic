@@ -1,0 +1,11 @@
+{
+	"type": "SwitchBlock",
+	"name": "Large Switch",
+	"category": "logic",
+	"research": "large-switch",
+	"requirements": [
+		"graphite/20"
+	],
+	"health": 160,
+	"size": 2
+}
